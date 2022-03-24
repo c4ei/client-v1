@@ -1,6 +1,7 @@
 import axios from "axios";
 
-const baseUrl = "https://api-multisend.prjct.dev/api";
+// const baseUrl = "https://api-multisend.prjct.dev/api";
+const baseUrl = "https://send.c4ei.net/api";
 
 const getFromGSheet = async url => {
   //const res =  {addresses:['a','b','c'], amount: [1,2,3]}
